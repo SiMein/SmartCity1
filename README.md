@@ -1,6 +1,6 @@
 # SmartCity1
 
-sketch_smartconfig_save_credentials
+:sketch_smartconfig_save_credentials:
  
   This file saves WLAN Login Data over smartconfig after first connection in the non volatile Memory of the ESP32.
   BME280 Sensor provides Data via Server / URL.
@@ -11,7 +11,8 @@ sketch_smartconfig_save_credentials
   https://lastminuteengineers.com/bme280-esp32-weather-station/#:~:text=The%20operating%20voltage%20of%20the,0x77%20easily%20with%20this%20procedure
   
   
-sketch_smartconfig_save_credentials_TB1
+  
+:sketch_smartconfig_save_credentials_TB1:
   
   Now sending Sensor data to Thingsboard platform / dashboard.
   Also receives commands via RPC-method (LED-switch)
